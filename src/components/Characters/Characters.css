@@ -1,0 +1,22 @@
+.characters-container {
+  padding: 20px;
+}
+
+.characters-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.character-card {
+  text-align: center;
+}
+
+.character-image {
+  transition: transform 0.5s ease;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}

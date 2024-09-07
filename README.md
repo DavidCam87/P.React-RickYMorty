@@ -1,0 +1,1 @@
+pequeña prueba de useEfecty useState. para ir conociendo como funciona React.
